@@ -33,7 +33,7 @@ tags:
 export default {
     setup() {
     },
-    mounted() {
+    mounted() { 
     let i = 0;
     let j = -1;
     let b = true;
