@@ -47,7 +47,7 @@ module.exports = {
     
   ],
       '/VUE/': [{
-        title: '前端知识',
+        title: 'vue组件',
         children: [
           'Daziji',
         ]
