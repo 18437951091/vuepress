@@ -3,6 +3,7 @@ module.exports = {
     title: "Journey",
     port:3000,
     // base:'/',
+    dest: 'dist',
     description: 'Feel the pain, And adapt the pain',
     //fav图标生效
     head: [

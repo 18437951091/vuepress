@@ -46,10 +46,10 @@ module.exports = {
 
     
   ],
-      '/VUE/': [{
-        title: 'vue组件',
-        children: [
-          'Daziji',
-        ]
-      }],
+      // '/VUE/': [{
+      //   title: 'vue组件',
+      //   children: [
+      //     'Daziji',
+      //   ]
+      // }],
 }
